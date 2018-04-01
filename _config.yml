@@ -2,11 +2,5 @@
 theme: jekyll-theme-cayman
 title : Welcome to my home page!
 email: adsofron@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  I am a DevOps Engineer currently living in Bucharest, Romania. 
-  My interests range from photography to devops. 
-  One particular reason I enjoy working with DevOps tools is that I have the opportunity to learn something new every day.
-baseurl: "/jekyll" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site
 twitter_username: adsofron
 github_username:  adsofron
